@@ -12,7 +12,7 @@ O objetivo aqui é praticar **lógica de programação**, **manipulação de var
 ---
 
 ## 🎨 Passo 1: Desenhando a Interface (UI)
-Antes de programar, precisamos da tela da nossa calculadora. No Visual Studio, ao criar um projeto "Aplicativo do Windows Forms (.NET Framework)", você verá um formulário em branco. Arraste os seguintes componentes da sua *Caixa de Ferramentas (Toolbox)* para a tela:
+Antes de programar, precisamos da tela da nossa calculadora. No Visual Studio, ao criar um projeto "Aplicativo do Windows Forms (.NET)", você verá um formulário em branco. Arraste os seguintes componentes da sua *Caixa de Ferramentas (Toolbox)* para a tela:
 
 * **1 TextBox:** Onde os números e resultados vão aparecer.
   * *Nomeie para:* `txtResultado`
